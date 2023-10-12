@@ -75,3 +75,14 @@ while (stk.Count > 0)
         stk.Push(child);
     }
 }
+
+/* Using Recursions */
+
+private void DFSHelper(TreeNode node) {
+    Console.WriteLine(node.val);
+    foreach(var chield in node.chields) {
+        DFSHelper(chield);
+    }
+}
+
+DFSHelper(n1);
