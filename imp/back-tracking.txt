@@ -1,0 +1,5 @@
+recursion
+list of positive numbers and target sum
+word ladder
+permutations
+sudoku solver

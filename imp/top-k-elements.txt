@@ -1,0 +1,3 @@
+top k largest / smallest elements in array
+k most frequent elements
+heap data structure - n log k > n log n

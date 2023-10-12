@@ -1,0 +1,4 @@
+graph traversals
+bfs - shortest path from vertex A to vertex B
+dijkstra's shortest path algo
+topological sort
